@@ -1,0 +1,15 @@
+Manubhai 40 Male 9090909090 Manubhai@gmail.com Morbi Gujrat Hindi Gujrati GUJ 1234567890 6/18/25 
+ajubhai 42 Male 9090909091 Yajubhai@gmail.com rajkot Gujrat Hindi Gujrati GUJ 0987654312 5/18/26 
+Munnabhi 35 Male 9090923343 Munnabhi@gmail.com ahmedabad Gujrat Hindi Gujrati GUJ 2348728322 6/18/30 
+Rameshbhai 40 Male 9090924524 rameshbhai@gmail.com surat Gujrat Hindi Gujrati GUJ 1234543550 6/18/27 
+Chandubhai 28 Male 9090924524 chandubhai@gmail.com vadodra Gujrat Hindi kannad Gujrati GUJ 1232523550 12/20/25 
+Chamanbhai 40 Male 9090924524 chamanbhai@gmail.com Maheshana Gujrat Hindi Gujrati GUJ 2344233550 6/18/26 
+Rakeshbhai 42 Male 9090374655 Rakeshbhai@gmail.com ahmedabad Gujrat Hindi Gujrati GUJ 1234455890 6/3/25 
+Lallanbhai 28 Male 9045574655 lallanbhai@gmail.com rajkot Gujrat Hindi Gujrati GUJ 123447890 6/19/29 
+Ashish 24 Male 9090924524 Ashish@gmail.com morbi Gujrat Hindi Gujrati GUJ 12345432090 6/18/32 
+Amrish 22 Male 9045574655 Amrish@gmail.com rajkot Gujrat Hindi Gujrati GUJ 123447270 6/19/37 
+Rajeshbhai 30 Male 9859892310 Rajeshbhai@gmail.com Rajula Gujrat hindi Gujrati GUJ 6734930909 3/16/46 
+yash 30 Male 9929089244 yash@gmail.con surat Gujrat hindi gujrati GUJ 1234567890 3/19/42 
+Raj 27 Male 9878908790 raj@gmail.com Rajkot Gujrat Hindi Gujrati GUJ 0987569076 4/15/41 
+parth 26 Male 9087987098 parth@gmail.com Morbi Gujrat Hindi English Gujrati GUJ 0987569076 4/24/30 
+Rajesh 26 Male 9087987098 parth@gmail.com.Morbi Gujrat Hindi English Gujrati GUJ 0987569076 4/24/30

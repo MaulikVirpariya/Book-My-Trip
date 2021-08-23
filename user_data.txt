@@ -1,0 +1,8 @@
+Maulik 1234 19 Male 9427156012 maulik@gmail.com laxminagr morbi Gujrat
+Yagnik 1234 19 Male 8967459876 yagnik@gmail.com surat surat Gujrat
+Yash 1234 20 Male 9898989898 yash@gmail.com surat surat Gujrat
+Savan 1234 22 Male 9889978667 savan@gmail.com surat surat Gujrat
+Utsav 1234 22 Male 8989897867 utsav@gmail.com khambhat Khambhat Gujrat
+Kaustubh 1234 19 Male 7889689098 kaustubh@gmail.com Khambhat Khambhat Gujrat
+Parth 1234 20 Male 8980908765 parth@gmail.com Morbi Morbi Gujrat
+Raj 1234 18 Male 9876889707 raj@gmail.com Morbi Morbi Gujrat

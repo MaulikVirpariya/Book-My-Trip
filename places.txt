@@ -1,0 +1,10 @@
+Ahmedabad Surat 282 2800 3400
+Ahmedabad Morbi 195 2300 3600
+Ahmedabad Rajkot 214 1900 4130
+Katch Ahmedabad 400 4200 6000
+Surat Morbi 460 3200 4800
+Surat Rajkot 441 2600 3900
+Surat Katch 664 6000 75000
+Morbi Rajkot 70 1000 2000
+Morbi Katch 270 1200 2000
+Rajkot Katch 300 2200 3000
